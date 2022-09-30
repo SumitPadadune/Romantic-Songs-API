@@ -182,7 +182,7 @@
        "link":"https://youtu.be/BddP6PYo2gs"
     },
 
-{
+    {
        "id":12,
        "name":"Cham Cham",
        "lyrics":"https://www.lyricsmint.com/baaghi/cham-cham",
@@ -193,6 +193,18 @@
           "Meet Bros"
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
+    },
+    {
+       "id":16,
+       "name":"Char Kadam",
+       "lyrics":"https://lyricstranslate.com/en/shaan-chaar-kadam-lyrics.html",
+       "album":"Romance",
+       "Duration":"3 min 52 sec",
+       "singer":[
+          "Shann",
+          "Shreya Ghoshal"
+       ],
+       "https://www.youtube.com/watch?v=WKbwopSXLWU"
     },
 
     
